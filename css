@@ -1,0 +1,23 @@
+<html lang=en>
+<head>
+<meta charset= "utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE-edge">
+<meta name="view port" content="width=device-width,intial-scale=1>
+<link rel:"stylesheet" href="css/style.css">
+<title> Solution For Module 2</title>
+
+<body>
+<div class="row">
+<h1>Our Menu</h1>
+<h2 id="Ch">Chicken</h2>
+<div class="col-lg-4 col-md-6 col-sm-12" id="container">
+<p> lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore er dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+</div>
+<h3 id="Be">Beef</h3>
+<div class="col-lg-4 col-md-6 col-sm-12" id="container">
+<p> lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequot</p>
+</div>
+<h4 id="Su">Sushi</h4>
+<div class="col-lg-4 col-md-6 col-sm-16 id="container">
+<p>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequot</p>
+</div>
